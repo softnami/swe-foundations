@@ -1,2 +1,4 @@
 # swe-foundations
-Cheat sheets and templates for learning software engineering principles. 
+Cheat sheets and templates to learn software engineering. 
+
+TreeTraversals.pd - Pre-Order, Post-Order and Level-Order traversal. 
