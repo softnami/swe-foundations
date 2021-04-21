@@ -1,2 +1,2 @@
 # swe-foundations
-Cheatsheets and templates for learning software engineering principles. 
+Cheat sheets and templates for learning software engineering principles. 
